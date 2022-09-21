@@ -1,1 +1,2 @@
-# shorturl_frontend
+#set variables inside index.js
+#run npm start

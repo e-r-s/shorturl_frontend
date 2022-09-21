@@ -1,0 +1,363 @@
+
+body,html,*, textarea, input, select {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box; 
+}
+ 
+
+#root, .app{
+  width: 100%;
+}
+
+a{
+  text-decoration: underline;
+  color: inherit;
+  cursor: pointer;
+} 
+
+a:hover{ 
+  color: #24BBEA;
+}
+
+.button{
+  font-weight: bold;
+  font-size: 12pt;
+  background-color: #24BBEA;
+  color:#000;
+  padding: 10px 20px;
+  height: 44px;
+  line-height: 24px;
+  cursor: pointer;
+  border-radius: 4px;
+  user-select: none;
+  transition: 200ms;
+}
+
+.button:hover{
+  background-color: #00CFE4;
+  color:#000;
+  border-color: #00CFE4;
+  user-select: none; 
+}
+.button:active{
+  background-color: #00E1CE;
+  color:#000;
+  border-color: #00E1CE;
+}
+
+.button--sub{
+  background-color: #A04E9B;
+  color:#fff;
+  border-color: #A04E9B;
+}
+.button--sub:hover{
+  background-color: #8A6EC1;
+  color:#fff;
+  border-color: #8A6EC1;
+}
+.button--sub:active{
+  background-color: #A72D6D;
+  color:#fff;
+  border-color: #A72D6D;
+}
+
+
+.button--gray{
+  background-color: #354A54;
+  color:#fff;
+  border-color: #354A54;
+}
+.button--gray:hover{
+  background-color: #333;
+  color:#fff;
+  border-color: #333;
+}
+.button--gray:active{
+  background-color: #000;
+  color:#fff;
+  border-color: #000;
+}
+
+
+
+.button--white{
+  background-color: #fff;
+  color:#354A54; 
+  border:1px solid #d1d1d1;
+}
+.button--white:hover{
+  background-color: #f2f2f2;
+  color:#666; 
+  border:1px solid #bcbcbc;
+}
+.button--white:active{
+  background-color: #00CFE4;
+  color:#000;
+  border-color: #00CFE4;
+}
+.button--white.selected{
+  background-color: #00CFE4;
+  color:#000;
+  border-color: #00CFE4;
+}
+.button--white.checked:before{ 
+  content: '✓';
+  color:#000;
+  font-weight: bold;
+  padding-right: 3px;
+}
+
+
+.button--light{
+  background-color: #00CFE433;
+  color:#354A54; 
+  border:1px solid #00CFE455;
+}
+.button--light:hover{
+  background-color: #00CFE455;
+  color:#666; 
+  border:1px solid #00CFE466;
+}
+.button--light:active{
+  background-color: #00CFE4;
+  color:#000;
+  border-color: #00CFE4;
+}
+.button--light.selected{
+  background-color: #00CFE4;
+  color:#000;
+  border-color: #00CFE4;
+}
+.button--light.checked:before{ 
+  content: '✓';
+  color:#000;
+  font-weight: bold;
+  padding-right: 3px;
+} 
+
+
+
+textarea, input, select { 
+  padding: 10px; 
+  resize: none;
+  outline: none;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 100%;
+  line-height: 1.4;
+  background-color: #fafafa; 
+  border-color: #a8d0dd;
+} 
+
+.checkbox{  
+   user-select: none;
+   cursor: pointer;
+   position: relative; 
+   padding-left: 30px;
+   line-height: 20px;
+   margin:8px 0px;
+   text-align: left;
+}
+
+.checkbox:before{ 
+  content: ' ';
+  width:18px;
+  height: 18px;
+  position: absolute;
+  left:0px;
+  color:#000;
+  font-weight: bold; 
+  border:1px solid #888;
+  background-color: #fff;
+  text-align: center;
+  line-height: 18px;
+ }
+
+ .checkbox.checked{ 
+ }
+.checkbox.checked:before{ 
+  content: '✓';  
+}
+
+textarea:hover, input:hover, select:hover {  
+  background-color: #fff; 
+  border-color: #00CFE4;
+} 
+
+.tabs{
+  .tab-headers{
+
+        display: flex;
+        border-bottom: 1px solid #ddd;
+
+        .tab-header:last-child{
+          border-right: 0px none;
+        }
+        .tab-header{
+          background-color: #fff;
+          border-radius: 4px 4px 0px 0px;
+          padding: 16px 25px;
+          cursor: pointer;
+          border-right: 1px solid #eee;
+          user-select: none;
+          margin-right:   10px;
+        }
+        .tab-header:hover{
+          background-color: #fafafa;
+          color: #000;
+        }
+        .tab-header:active{
+          background-color: #eee;
+        }
+        .tab-header.selected{
+          background-color: #24BBEA;
+          cursor: default;
+        }
+        .tab-header.selected:hover{
+          background-color: #00CFE4;
+        }
+    }
+  
+  .tab-contents{ 
+        .tab-content{ 
+          display: none;
+        }  
+        .tab-content.selected{
+          display: block;
+          padding-top: 20px;
+        } 
+    }
+
+}
+
+
+
+.warning-text{ 
+  color: #A72D6D;
+  padding: 10px;
+  font-size: 10pt;
+}
+
+
+.notifications {  
+
+    position: fixed; 
+    top:0px;
+    right:0px;
+    display: flex;
+    flex-direction: column; 
+    padding: 10px;
+    text-align: left;
+    z-index: 10000;
+    .notification {  
+        background-color: #fff;
+        box-shadow: 1px 1px 10px 10px #00000011; 
+        width:300px; 
+        border-radius: 4px;
+        padding: 20px;
+        font-size: 10pt;
+        position: relative;
+        .title{
+          font-weight: bold;
+          padding-bottom: 5px;
+        }
+      
+        .desc{ 
+
+        }
+
+        .close{ 
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            position: absolute;
+            top:10px;
+            right: 10px;
+            width: 20px;
+            height: 20px;
+            text-align: center;
+        }
+      
+    }
+}
+ 
+
+
+
+
+
+
+
+
+.popup-bg{
+  position: fixed;
+  top:0%;
+  left: 0%;
+  z-index: 100; 
+   
+  width: 100%;
+  height: 100%;
+   
+  background-color: #00000088;
+  user-select: none;
+}
+
+.popup{
+  position: fixed;
+  top:50%;
+  left: 50%;
+  z-index: 100; 
+  transform: translate(-50%, -50%);
+  max-width: 600px;
+  width: 95%;
+  height: auto; 
+  border-radius: 3px;
+  box-shadow: 1px 1px 50px 50px #00000022;
+  background-color: #fff;
+      .popup-header{
+        font-weight: bold;
+        text-align: center;
+        padding: 16px;
+        font-size: 14pt;
+        margin-right: 16px;
+        color:#000;
+        background-color: #f2f2f2;
+        border-radius:  3px 3px 0px 0px;
+        width: 100%;
+      }
+      .popup-close{
+          font-weight: bold;
+          text-align: center; 
+          width:32px; 
+          height: 32px;
+          line-height: 28px;
+          position: absolute;
+          right: 10px;
+          top: 10px;
+          border:1px solid #ddd;
+          border-radius: 50%;
+          cursor: pointer;
+          color:#000;
+        }
+
+
+      .popup-close:hover{
+          background-color: #eee;
+        }
+
+  }
+
+
+  @media (max-width:768px) {
+      
+          .notifications {   
+            top:40px;    
+        }
+}
