@@ -113,7 +113,7 @@ function Single() {
         : null}
 
       <div className="shorten-desc">
-        By clicking SHORTEN, you are agreeing to our <a target="_blank" href="#">Terms of Service</a>, <a target="_blank" href="#">Privacy Policy</a> and <a target="_blank" href="#">Acceptable Use Policy</a>
+        By clicking SHORTENates, you are agreeing to our <a target="_blank" href="#">Terms of Service</a>, <a target="_blank" href="#">Privacy Policy</a> and <a target="_blank" href="#">Acceptable Use Policy</a>
       </div>
       <br />
       <br />
