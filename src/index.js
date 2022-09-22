@@ -5,8 +5,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 window.VARS = {
-  apiUrl: 'http://localhost:3030/url',
-  shortUrl: 'http://localhost:3030/',
+  apiUrl: 'http://46.197.172.3:3030/url',
+  shortUrl: 'http://46.197.172.3:3030/',
   siteUrl: 'http://localhost:8080/',
 };
 

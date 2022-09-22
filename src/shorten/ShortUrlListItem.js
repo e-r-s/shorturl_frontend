@@ -20,7 +20,8 @@ const ShortUrlListItem =  ({item}) => {
   const [settings, setSettings] = useState({}); 
 
 
-   let isMember = window.sns.user?true:false;
+  let isMember = true;
+  // let isMember = window.sns.user ? true:false;
 
   const onCopyClicked =(str) =>{ 
         StringHelpers.copyToClipboard(str).then(AS => {
