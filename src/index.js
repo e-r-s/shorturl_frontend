@@ -4,17 +4,26 @@ import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { BrowserRouter } from "react-router-dom";
+
+// window.VARS = {
+//   apiUrl: 'http://46.197.172.3:3030/url',
+//   shortUrl: 'http://46.197.172.3:3030/',
+//   siteUrl: 'http://localhost:8080/',
+// };
 window.VARS = {
-  apiUrl: 'http://46.197.172.3:3030/url',
-  shortUrl: 'http://46.197.172.3:3030/',
+  apiUrl: 'http://localhost:3030/url',
+  shortUrl: 'http://localhost:3030/',
   siteUrl: 'http://localhost:8080/',
 };
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+     <BrowserRouter>
     <App />
-   
+    </BrowserRouter>
   </React.StrictMode>
 );
 

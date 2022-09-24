@@ -5,6 +5,8 @@ import React, { Component, useRef, useState } from 'react';
 import lib from 'url_shortening_lib';
 import { api } from './Shorten.Api';
 
+import {   Link } from "react-router-dom";
+
 const StringHelpers = lib.StringHelpers;
 
 function Single() {
@@ -113,7 +115,8 @@ function Single() {
         : null}
 
       <div className="shorten-desc">
-        By clicking SHORTEN, you are agreeing to our <a target="_blank" href="#">Terms of Service</a>, <a target="_blank" href="#">Privacy Policy</a> and <a target="_blank" href="#">Acceptable Use Policy</a>
+
+        By clicking SHORTEN, you are agreeing to our <Link target="_blank" to="/terms">Terms of Service</Link>, <Link target="_blank" to="/privacy">Privacy Policy</Link> and <Link target="_blank" to="/usepolicy">Acceptable Use Policy</Link>
       </div>
       <br />
       <br />

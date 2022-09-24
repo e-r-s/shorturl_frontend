@@ -1,0 +1,34 @@
+
+ .backend{
+      display: flex;
+      flex-direction: row;
+      height: 100%;
+      .menu{
+        width:260px;
+        display: flex;
+        flex-direction: column;
+        background-color: #fff;
+        height: 100%;
+        padding-top: 20px;
+        .menu-item{
+          padding:15px 20px;
+          text-align: left;
+          cursor: pointer;
+        }
+        .menu-item:hover{ 
+          background-color: #ddd;
+        }
+        .menu-item.selected{ 
+           color:#ddd;
+        }
+        .menu-seperator{ 
+          width:100%;
+          border-bottom:1px solid #eee;
+          margin:10px 0px;  
+        }
+      }
+      .page{
+        flex:1;
+      }
+
+ }
