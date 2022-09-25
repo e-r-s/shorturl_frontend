@@ -33,31 +33,13 @@ const ShortUrlListItem =  ({item}) => {
         }); 
   }
 
-
-//   uid: string;
-//   enableProxy: boolean;
-//   enableTracking: boolean;  // browser, time, location, ip, language, mobile/pc, orientation, screen size, fingerprint, ref, history.length, 
-//   enablePassword: boolean; 
-//   enableCite: boolean; 
-//  // enableCaching: boolean; //
-//   enableAdvertisement: boolean;  //
-//   enableCustomAdvertisement: boolean;  
-//   enableCustomDomain: boolean;  
-//   qrCodeColor: string; 
-//   qrCodeLogoUrl: string; 
-//   citeText: string;  
-//   password: string;  
-//   customDomain: string;  
-//   addvertisementHtml: string;  //advertisement page html
-//   addvertisementTimeLimit: number;  //time limit to skip 
-//   headerHTML:string;   //read from 
-//   title:string;
-//   description:string;
-//   imageUrl:string;  
+ 
 
   const onSettingsClicked =(str) =>{ 
     if(isMember){
-      item.settings =  item.settings || {};
+      item.settings =  item.settings || {
+        addvertisementTimeLimit:4
+      };
     }
     setShowAllSettings(!showAllSettings);
   }
@@ -264,11 +246,15 @@ const ShortUrlListItem =  ({item}) => {
 
                             {settings.enableCustomAdvertisement?
                             <div className="ad-setting ad-html" >
-                                <div className="label" >Advertisement page html:  <span className="desc">After change click to Save</span></div> 
+                                <div className="label" >Advertisement page image url for PC:  <span className="desc">After change click to Save</span></div> 
                                 <div className="value" >
-                                    <textarea type="text" value={settings.addvertisementHtml} onChange={(e)=>setAdvertisementPageHtml(e)} />
-                                    <div className="copy button button--white" onClick={()=> advertisementPageHtmlChanged()}>Save</div>
+                                    <textarea type="text" placeholder='https://.... Image Url for PC addvertisement (Must start with https)' value={settings.addvertisementHtml} onChange={(e)=>setAdvertisementPageHtml(e)} />
                                 </div>   
+                                <br/>
+                                <div className="label" >Advertisement page image url for Mobile:  <span className="desc">After change click to Save</span></div> 
+                                <div className="value" >
+                                    <textarea type="text" placeholder='https://.... Image Url for mobile addvertisement (Must start with https)' value={settings.addvertisementHtml} onChange={(e)=>setAdvertisementPageHtml(e)} />
+                                </div>  
                             </div>   
                              :null}
                             {settings.enableCustomAdvertisement?
@@ -293,7 +279,14 @@ const ShortUrlListItem =  ({item}) => {
                                     </select>
                                  </div>   
                                 <div className="desc" >Minimum time limit as seconds to skip advertisement</div> 
+
                             </div>    
+                            :null}
+
+                            {settings.enableCustomAdvertisement?
+                            <div className="ad-setting ad-save" >
+                              <div className="copy button button--white" onClick={()=> advertisementPageHtmlChanged()}>Save Advertisement Settings</div>
+                            </div>
                             :null}
 
                         </div>

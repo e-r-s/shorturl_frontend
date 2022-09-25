@@ -13,6 +13,8 @@ import PrivacyPolicy from './pages/PrivacyPolicy';
 import Pricing from './pages/Pricing';
 import WhyUs from './pages/WhyUs';
 import Resources from './pages/Resources';
+import PageNotFound from './pages/PageNotFound';
+
 
 import React, { Component, useEffect, useRef, useState }  from 'react';
 import { api } from './shorten/Shorten.Api';
@@ -79,7 +81,8 @@ function App() {
         <Route path="/privacy" element={<PrivacyPolicy />} />
         <Route path="/terms" element={<Terms />} />
         <Route path="/usepolicy" element={<UsePolicy />} />
-        
+        <Route path="*" element={<PageNotFound />} />
+
         
 
         {/* <Route path="/order/:id" element={<OrderDetail />} /> */}
