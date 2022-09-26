@@ -12,8 +12,8 @@ import { BrowserRouter } from "react-router-dom";
 //   siteUrl: 'http://localhost:8080/',
 // };
 window.VARS = {
-  apiUrl: 'http://localhost:3030/url',
-  shortUrl: 'http://localhost:3030/',
+  apiUrl: 'https://shorturlapi.losmedia.com/url',
+  shortUrl: 'https://shorturlapi.losmedia.com/',
   siteUrl: 'http://localhost:8080/',
 };
 
