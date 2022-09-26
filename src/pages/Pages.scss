@@ -57,6 +57,9 @@
           flex-wrap: wrap;
           .box{
             min-width: 200px;
+            .box-content{
+              padding: 0px;
+            }
           }
         }
         .boxes { 
@@ -72,6 +75,28 @@
             flex:1;
             margin:10px;
             font-size:10pt;
+            display: flex;
+            .box-content{
+              flex:3;
+              justify-content: center;
+              align-items: center;
+              display: flex;
+              flex-direction: column;
+              padding:10px;
+              * {
+                width: 100%;
+              }
+            }
+            .box-image{ 
+              flex:1;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              padding: 10px;
+              img{
+                width:100%;
+              }
+            }
             .box-title{
               font-weight: bold;
               border-bottom: 1px solid #eee;
@@ -122,10 +147,13 @@
           .box:last-child{  
           }
 
-
-        .box.col-6{
-          min-width: 300px;
-        }
+          
+    }
+    .resources-page{
+      .box{
+        min-width: 300px;
+        flex-direction: column;
+      }
     }
 }
 
@@ -163,16 +191,16 @@
 
       .page-subdesc { 
         padding: 10px;
-      }
-      .boxes{ 
+      } 
           .box{ 
             margin:10px;
             margin-bottom: 20px;
+            flex-direction: column;
           }
           .box:last-child{ 
             margin-right:10px;
           }
-      }
+      
     }
   }
 }

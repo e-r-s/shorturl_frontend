@@ -16,12 +16,16 @@ function Resources() {
             </div>
         </div>
         
-        <div className="page">
+        <div className="page resources-page">
           {/* <div className='page-subdesc'>
             Save up to 34% when you pay annually
           </div> */}
           <div className='boxes'>
-                <div className='box col-6'>
+                <div className='box'>
+                <div className='box-image'>
+                  <img src="logo.png" />
+                </div>
+                <div className='box-content'>
                     <div className='page-sub-title'>
                     API Documentation
                     </div>
@@ -29,7 +33,12 @@ function Resources() {
                     Creating, sharing and monitoring your links shouldn’t be a drag. Bitly helps you work faster and more intelligently—with features like branded links and the ability to redirect any link—so you can relish the sweet taste of hitting your performance goals.
                     </div>
                 </div>
-                <div className='box col-6'>
+                </div>
+                <div className='box '>
+                <div className='box-image'>
+                  <img src="logo.png" />
+                </div>
+                <div className='box-content'>
                     <div className='page-sub-title'>
                     How to use custom urls? 
                     </div>
@@ -37,8 +46,13 @@ function Resources() {
                     Make your links powerful marketing assets. Custom links replace “bit.ly” with your chosen domain name, making your links consistently recognizable across channels. They’re so powerful, businesses that use them get more clicks.
                     </div>
                 </div>
+                </div>
           
-                <div className='box col-6'>
+                <div className='box '>
+                <div className='box-image'>
+                  <img src="logo.png" />
+                </div>
+                <div className='box-content'>
                     <div className='page-sub-title'>
                     Advertisement integrations
                     </div>
@@ -46,8 +60,13 @@ function Resources() {
                     Make your links powerful marketing assets. Custom links replace “bit.ly” with your chosen domain name, making your links consistently recognizable across channels. They’re so powerful, businesses that use them get more clicks.
                     </div>
                 </div>
+                </div>
           
-                <div className='box col-6'>
+                <div className='box '>
+                <div className='box-image'>
+                  <img src="logo.png" />
+                </div>
+                <div className='box-content'>
                     <div className='page-sub-title'>
                     Wordpress, Joomla, Django, Wix integrations
                     </div>
@@ -55,14 +74,20 @@ function Resources() {
                     Make your links powerful marketing assets. Custom links replace “bit.ly” with your chosen domain name, making your links consistently recognizable across channels. They’re so powerful, businesses that use them get more clicks.
                     </div>
                 </div>
+                </div>
           
-                <div className='box col-6'>
+                <div className='box '>
+                <div className='box-image'>
+                  <img src="logo.png" />
+                </div>
+                <div className='box-content'>
                     <div className='page-sub-title'>
                     Using Google Analytics with #1ShortUrl
                     </div>
                     <div className='page-text'>
                     Make your links powerful marketing assets. Custom links replace “bit.ly” with your chosen domain name, making your links consistently recognizable across channels. They’re so powerful, businesses that use them get more clicks.
                     </div>
+                </div>
                 </div>
                 
           </div>
