@@ -37,7 +37,8 @@ function Pricing() {
               <div className='price-box-spec'>Custom back-halves</div>
               <div className='price-box-spec'>QR Codes</div>
               <div className='price-box-spec'>Link history and reporting</div>
-              <div className='price-box-spec'>Custom back-halves</div>
+              <div className='price-box-spec'>&nbsp;</div>
+              <div className='price-box-spec'>&nbsp;</div> 
             </div>
           </div>
           <div className='box'>
@@ -54,6 +55,7 @@ function Pricing() {
               <div className='price-box-spec'>Link-in-bio</div>
               <div className='price-box-spec'>Data export</div>
               <div className='price-box-spec'>10 Proxy url/month</div>
+              <div className='price-box-spec'>Url Forms</div>
               <div className='price-box-spec'>Enable Tracking</div>
               <div className='price-box-spec'>Password protected content</div>
             </div>
@@ -72,6 +74,7 @@ function Pricing() {
               <div className='price-box-spec'>100 Proxy url/month</div>
               <div className='price-box-spec'>Custom Advertisement</div>
               <div className='price-box-spec'>Custom Domain</div>
+              <div className='price-box-spec'>Pre-defined Settings</div>
               <div className='price-box-spec'>Customer Support</div>
               <div className='price-box-spec'>API access</div>
             </div>
@@ -85,13 +88,14 @@ function Pricing() {
                 <div className='desc'>(annual one-time charge of $100)</div>
               </div>
               <div className='buy-button button'>Get Started</div>
-              <div className='box-line'>20000+ branded short links/month</div>
+              <div className='box-line'>Unlimited short links</div>
               <div className='sub-title'>Everything in Premium, plus:</div>
               <div className='price-box-spec'>1000 Proxy url/month</div>
               <div className='price-box-spec'>Advanced Statics</div>
               <div className='price-box-spec'>Multiple user seats (Team)</div>
               <div className='price-box-spec'>99.9% SLA uptime</div>
-              <div className='price-box-spec'>Serverless Redirect</div>
+              <div className='price-box-spec'>Serverless Redirect</div> 
+              <div className='price-box-spec'>Integrations</div>
             </div>
           </div>
         </div>

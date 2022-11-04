@@ -13,8 +13,8 @@ import { BrowserRouter } from "react-router-dom";
 // };
 window.VARS = {
   apiUrl: 'https://shorturlapi.losmedia.com/url',
-  shortUrl: 'https://shorturlapi.losmedia.com/',
-  siteUrl: 'http://localhost:8080/',
+  shortUrl: 'https://u4.ink/',
+  siteUrl: 'https://1shorturl.com/',
 };
 
 
