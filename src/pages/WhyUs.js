@@ -27,10 +27,10 @@ function Pricing() {
               </div>
               <div className='box-content'>
                   <div className='page-sub-title'>
-                  1. Work smarter with Bitly’s all-in-one platform
+                  1. Work smarter with #1ShortUrl’s all-in-one platform
                   </div>
                   <div className='page-text'>
-                  Creating, sharing and monitoring your links shouldn’t be a drag. Bitly helps you work faster and more intelligently—with features like branded links and the ability to redirect any link—so you can relish the sweet taste of hitting your performance goals.
+                  Creating, sharing and monitoring your links shouldn’t be a drag. #1ShortUrl helps you work faster and more intelligently—with features like branded links and the ability to redirect any link—so you can relish the sweet taste of hitting your performance goals.
                   </div>
               </div>
           </div>
@@ -58,7 +58,7 @@ function Pricing() {
                   3. Maximize your performance using real-time analytics
                   </div>
                   <div className='page-text'>
-                  Understand what content is resonating with your audience with comprehensive metrics on every link and campaign—like clicks, geographic data, and top referring channels. Bitly takes the guesswork out of your link performance so you can share more of what your audience wants.
+                  Understand what content is resonating with your audience with comprehensive metrics on every link and campaign—like clicks, geographic data, and top referring channels. #1ShortUrl takes the guesswork out of your link performance so you can share more of what your audience wants.
                   </div>
               </div>
           </div>
@@ -72,7 +72,7 @@ function Pricing() {
                   4. Integrate seamlessly with the tools you love
                   </div>
                   <div className='page-text'>
-                  Bitly integrates with nearly every social media and digital marketing tool, saving you time and hassle. Need to create links at scale? Bitly’s got you covered. Whether you need 100 links or 100,000, the open and flexible Bitly API makes it simple and seamless.
+                  #1ShortUrl integrates with nearly every social media and digital marketing tool, saving you time and hassle. Need to create links at scale? #1ShortUrl’s got you covered. Whether you need 100 links or 100,000, the open and flexible #1ShortUrl API makes it simple and seamless.
                   </div>
               </div>
           </div>
@@ -87,7 +87,7 @@ function Pricing() {
                   5. Rest assured knowing your links are secure
                   </div>
                   <div className='page-text'>
-                  Bitly is dedicated to ensuring your links are safe and reliable. Every link you create using Bitly is encrypted with HTTPS to maximize protection against eavesdropping or tampering by third parties, keeping your content safe from the bad guys.
+                  #1ShortUrl is dedicated to ensuring your links are safe and reliable. Every link you create using #1ShortUrl is encrypted with HTTPS to maximize protection against eavesdropping or tampering by third parties, keeping your content safe from the bad guys.
                   </div>
               </div>
           </div>

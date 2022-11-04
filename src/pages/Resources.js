@@ -30,7 +30,7 @@ function Resources() {
                     API Documentation
                     </div>
                     <div className='page-text'>
-                    Creating, sharing and monitoring your links shouldn’t be a drag. Bitly helps you work faster and more intelligently—with features like branded links and the ability to redirect any link—so you can relish the sweet taste of hitting your performance goals.
+                    Creating, sharing and monitoring your links shouldn’t be a drag. #1ShortUrl helps you work faster and more intelligently—with features like branded links and the ability to redirect any link—so you can relish the sweet taste of hitting your performance goals.
                     </div>
                 </div>
                 </div>
