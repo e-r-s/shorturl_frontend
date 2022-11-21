@@ -28,15 +28,15 @@ function UsePolicy() {
     <p>#1ShortUrl is committed to protecting and supporting the right to free expression. At the same time, we take the trust
         and safety of our platform and community of users seriously. Accordingly, any attempt to use the #1ShortUrl Services
         to distribute harmful, false or misleading content or otherwise manipulate the #1ShortUrl Services (as defined in the
-        #1ShortUrl <a href="https://#1ShortUrl.com/pages/terms-of-service">Terms of Service</a>) for such purposes, is strictly
+        #1ShortUrl <a href="https://1ShortUrl.com/pages/terms-of-service">Terms of Service</a>) for such purposes, is strictly
         prohibited. If we determine that you are using or have used the #1ShortUrl Services to engage in any form of
         misconduct, including violating this Policy, we may restrict your ability to use our platform, remove your
         content or suspend or terminate your account. Misconduct may also violate applicable laws and can lead to legal
         action and civil and criminal penalties.</p>
     <p>By accessing or using the #1ShortUrl Services, you agree to abide by this Acceptable Use Policy as well as the #1ShortUrl
-        <a href="https://#1ShortUrl.com/pages/terms-of-service">Terms of Service</a>, #1ShortUrl <a
-            href="https://#1ShortUrl.com/pages/privacy">Privacy Policy</a> and #1ShortUrl’s <a
-            href="https://#1ShortUrl.com/pages/dmca-copyright-policy">DMCA Copyright Policy</a> and to (collectively, the
+        <a href="https://1ShortUrl.com/pages/terms-of-service">Terms of Service</a>, #1ShortUrl <a
+            href="https://1ShortUrl.com/pages/privacy">Privacy Policy</a> and #1ShortUrl’s <a
+            href="https://1ShortUrl.com/pages/dmca-copyright-policy">DMCA Copyright Policy</a> and to (collectively, the
         “#1ShortUrl Terms”), as may be modified from time to time.</p>
     <h5 className="header-s">Eligibility</h5>
     <p>You may only use the #1ShortUrl Services in compliance with the #1ShortUrl Terms. If we suspend or revoke your privileges

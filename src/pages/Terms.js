@@ -29,8 +29,8 @@ function PrivacyPolicy() {
         apply to that company or other legal entity. If you have been granted access to and use of the #1ShortUrl Services by
         and on behalf of the primary account holder, whether directly or through an administrator, you also agree to
         abide by this Agreement. In addition to this Agreement, Customer’s use of the #1ShortUrl Services is governed by the
-        #1ShortUrl&nbsp;<a href="https://#1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy
-            Policy</a>&nbsp;and&nbsp;<a href="https://#1ShortUrl.com/pages/dmca-copyright-policy" target="_blank"
+        #1ShortUrl&nbsp;<a href="https://1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy
+            Policy</a>&nbsp;and&nbsp;<a href="https://1ShortUrl.com/pages/dmca-copyright-policy" target="_blank"
             rel="noopener">#1ShortUrl’s DMCA Copyright Policy</a>.</p>
     <p><strong>YOU ACKNOWLEDGE AND AGREE THAT, BY CREATING A #1ShortUrl ACCOUNT, PURCHASING A PAID ACCOUNT, OR ACCESSING OR
             USING THE #1ShortUrl SERVICES, YOU ARE INDICATING THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THESE
@@ -106,16 +106,16 @@ function PrivacyPolicy() {
                     payment of all Fees due hereunder, #1ShortUrl grants Customer, and any other party agreed in an Order
                     Form, a limited, revocable, non-exclusive, non-sublicensable, non-transferable right and license to
                     use the #1ShortUrl Services solely to shorten uniform resource locators (“URL”), receive certain #1ShortUrl
-                    Link Metrics (defined in #1ShortUrl’s&nbsp;<a href="https://#1ShortUrl.com/pages/privacy" target="_blank"
+                    Link Metrics (defined in #1ShortUrl’s&nbsp;<a href="https://1ShortUrl.com/pages/privacy" target="_blank"
                         rel="noopener">Privacy Policy</a>) and, for Enterprise Plan Customers, to utilize the other
                     products and services defined on the applicable Order Form during the Term.</li>
                 <li><b>#1ShortUrl Link Metrics.</b>&nbsp;As part of the provision of #1ShortUrl Services, #1ShortUrl collects and
                     generates #1ShortUrl Link Metrics, which are described in #1ShortUrl’s&nbsp;<a
-                        href="https://#1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy Policy</a>.
+                        href="https://1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy Policy</a>.
                     Certain, limited #1ShortUrl Link Metrics are published on #1ShortUrl’s website. Customer acknowledges and
                     agrees that all #1ShortUrl Link Metrics are owned by #1ShortUrl, and that #1ShortUrl has the right to use, license,
                     sell or otherwise dispose of #1ShortUrl Link Metrics as detailed in #1ShortUrl’s&nbsp;<a
-                        href="https://#1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy Policy</a>. #1ShortUrl
+                        href="https://1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy Policy</a>. #1ShortUrl
                     does not make all #1ShortUrl Link Metrics available to Customer. Customer may access, use, and copy the
                     limited #1ShortUrl Link Metrics we make available to Customer according to the Customer’s service tier.
                     Customer may not combine any #1ShortUrl Link Metrics with any personally identifiable information and may
@@ -221,8 +221,8 @@ function PrivacyPolicy() {
                     reasonably requested by #1ShortUrl, or required by law, to establish #1ShortUrl’s sole and exclusive ownership
                     and rights in the #1ShortUrl Marks, or to obtain registration thereof. Customer agrees to use the #1ShortUrl
                     Marks consistent with #1ShortUrl’s Brand Assets it makes available at&nbsp;<a
-                        href="https://#1ShortUrl.com/pages/press" target="_blank"
-                        rel="noopener">https://#1ShortUrl.com/pages/press</a>, so as to protect and maintain the #1ShortUrl Marks
+                        href="https://1ShortUrl.com/pages/press" target="_blank"
+                        rel="noopener">https://1ShortUrl.com/pages/press</a>, so as to protect and maintain the #1ShortUrl Marks
                     and #1ShortUrl’s rights therein. To this end, #1ShortUrl shall have the right to revoke the license granted in
                     this Section and/or to review and approve the manner of use of the #1ShortUrl Marks, and Customer agrees
                     to modify the use of any #1ShortUrl Marks which do not meet #1ShortUrl’s standards. Notwithstanding the
@@ -248,8 +248,8 @@ function PrivacyPolicy() {
                     operation and promotion of the #1ShortUrl Services, creation of #1ShortUrl Link Metrics and for other business
                     purposes. #1ShortUrl’s collection, use and sharing of personal information #1ShortUrl receives from Customer
                     or third parties (including social media networks) is described #1ShortUrl’s&nbsp;<a
-                        href="https://#1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy Policy</a>. As
-                    stated in our&nbsp;<a href="https://#1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy
+                        href="https://1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy Policy</a>. As
+                    stated in our&nbsp;<a href="https://1ShortUrl.com/pages/privacy" target="_blank" rel="noopener">Privacy
                         Policy</a>, where permitted by law, if you register a #1ShortUrl Account with an email address on a
                     domain owned by an organization, such as your employer, we may share your email address and
                     information about your Account with our sales team and the business to explore the business’
@@ -418,7 +418,7 @@ function PrivacyPolicy() {
                         <li>If #1ShortUrl changes any of the terms of this “Dispute Resolution” Section after the date you
                             first accepted these Terms of Service (or accepted any subsequent changes to these Terms of
                             Service), you may reject any such change by sending us written notice (including by email
-                            to&nbsp;<a href="mailto:%20support@#1ShortUrl.com">support@#1ShortUrl.com</a>) within 30 days of the
+                            to&nbsp;<a href="mailto:%20support@1ShortUrl.com">support@1ShortUrl.com</a>) within 30 days of the
                             date such change became effective, as indicated in the “Last Updated” date above or in the
                             date of #1ShortUrl’s email to you notifying you of such change. By rejecting any change, you are
                             agreeing that you will arbitrate any Dispute between you and #1ShortUrl in accordance with the
@@ -489,7 +489,7 @@ function PrivacyPolicy() {
                     marketing or publicity materials and on its website to identify Customer as a customer that uses the
                     #1ShortUrl Services.</li>
                 <li><b>Contacting #1ShortUrl.</b>&nbsp;If you have any questions about these Terms, please contact us
-                    at&nbsp;<a href="mailto:%20support@#1ShortUrl.com">support@#1ShortUrl.com</a>.</li>
+                    at&nbsp;<a href="mailto:%20support@1ShortUrl.com">support@1ShortUrl.com</a>.</li>
             </ol>
         </li>
     </ol> 

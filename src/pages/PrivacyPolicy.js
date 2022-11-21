@@ -24,7 +24,7 @@ function PrivacyPolicy() {
         choices regarding use, access, deletion, and correction of your personal information.</p>
     <h5 className="header-s">Scope</h5>
     <p>This Privacy Policy explains how #1ShortUrl treats the personal information it gathers when you use or access <a
-            href="https://#1ShortUrl.com/">https://#1ShortUrl.com</a> (the “Site”) or the services, features, content or
+            href="https://1ShortUrl.com/">https://1ShortUrl.com</a> (the “Site”) or the services, features, content or
         applications offered by #1ShortUrl (collectively with the Site, the “Services”), or when you view or interact with a
         #1ShortUrl link (either our bit.ly links or one of our branded domains). This Privacy Policy also covers #1ShortUrl’s
         treatment of any information about you that #1ShortUrl’s customers share with #1ShortUrl.</p>
@@ -140,8 +140,8 @@ function PrivacyPolicy() {
         just won’t associate them with your browser or #1ShortUrl account.</p>
     <p>Cookies on #1ShortUrl Links:&nbsp;<a href="https://bit.ly/a/optout" target="_blank" rel="noopener">Click Here</a> (<a
             href="https://bit.ly/a/optout" target="_blank" rel="noopener">https://bit.ly/a/optout</a>)</p>
-    <p>Cookies on #1ShortUrl.com:&nbsp;<a href="https://#1ShortUrl.com/a/optout" target="_blank" rel="noopener">Click Here</a> (<a
-            href="https://#1ShortUrl.com/a/optout" target="_blank" rel="noopener">https://#1ShortUrl.com/a/optout</a>)</p>
+    <p>Cookies on #1ShortUrl.com:&nbsp;<a href="https://1ShortUrl.com/a/optout" target="_blank" rel="noopener">Click Here</a> (<a
+            href="https://1ShortUrl.com/a/optout" target="_blank" rel="noopener">https://1ShortUrl.com/a/optout</a>)</p>
     <p><strong>Note Regarding Children</strong><br /> We do not knowingly collect personal information from children. If
         we learn that we have collected personal information of a child under 13 (or older as required by applicable
         law), we will take steps to delete such information from our ﬁles as soon as possible.</p>
@@ -254,7 +254,7 @@ function PrivacyPolicy() {
         stored by #1ShortUrl. In the event we experience a breach of security, we will promptly notify you if your personal
         information has been compromised, in accordance with applicable law. If you have any questions about the
         security of your personal information, you can contact us at <a
-            href="mailto:privacy@#1ShortUrl.com">privacy@#1ShortUrl.com</a>.</p>
+            href="mailto:privacy@1ShortUrl.com">privacy@1ShortUrl.com</a>.</p>
     <h5 className="header-s">Choice and Access</h5>
     <p>You don’t need an Account to create #1ShortUrl Links, and you can use many of the features of the Services without
         registering, thereby limiting the type of information that is collected about you individually. If you have a
@@ -263,11 +263,11 @@ function PrivacyPolicy() {
         the metrics pages for those URLs. You can request a complete copy of the personal information we store about
         your account by clicking the button to request a report in your Account Settings. For more information on how to
         request access to your information, please see our <a
-            href="https://support.#1ShortUrl.com/hc/en-us/articles/360006534152-How-to-request-a-copy-of-my-personal-data-from-#1ShortUrl-GDPR-Subject-Access-Request-">help
+            href="https://support.1ShortUrl.com/hc/en-us/articles/360006534152-How-to-request-a-copy-of-my-personal-data-from-#1ShortUrl-GDPR-Subject-Access-Request-">help
             article</a>.</p>
     <p>You can delete your Account at any time through your Account settings page. If you delete your Account, you will
         no longer be able to access or use the Services. If you have an Account but are unable to access it, you can
-        contact us at <a href="mailto:privacy@#1ShortUrl.com">privacy@#1ShortUrl.com</a>. We will respond to your request within a
+        contact us at <a href="mailto:privacy@1ShortUrl.com">privacy@1ShortUrl.com</a>. We will respond to your request within a
         reasonable timeframe. If you are a resident of the EEA or Switzerland, you have the right to ask that your
         personal data be corrected, updated, or erased. Additionally, you may have the right to access your personal
         data and receive a copy of your personal data undergoing processing. You may also have the right to object to,
@@ -310,7 +310,7 @@ function PrivacyPolicy() {
         Policy when you use the Services after those changes become effective.</p>
     <h5 className="header-s">Questions?</h5>
     <p>If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to:
-        <a href="mailto:privacy@#1ShortUrl.com">privacy@#1ShortUrl.com</a>. We will make every effort to resolve your concerns.
+        <a href="mailto:privacy@1ShortUrl.com">privacy@1ShortUrl.com</a>. We will make every effort to resolve your concerns.
     </p>
     <p>You may also contact us at DPT 5006, 601 W. 26th St., 3rd Floor, Suite 357, New York, NY 10001-1101.</p>
  
