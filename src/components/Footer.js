@@ -28,7 +28,7 @@ const Footer = () => {
 
                 <ul className="nav__ul">
                   <li>
-                    <a href="#">Why #1ShortUrl?</a>
+                    <a href="/whyus">Why #1ShortUrl?</a>
                   </li>
 
                   <li>
@@ -36,7 +36,7 @@ const Footer = () => {
                   </li>
                       
                   <li>
-                    <a href="#">Pricing</a>
+                    <a href="/pricing">Pricing</a>
                   </li>
                 </ul>
               </li>
@@ -66,15 +66,15 @@ const Footer = () => {
                 
                 <ul className="nav__ul">
                   <li>
-                    <a href="#">Privacy Policy</a>
+                    <a href="privacy">Privacy Policy</a>
                   </li>
                   
                   <li>
-                    <a href="#">Terms of Use</a>
+                    <a href="terms">Terms of Use</a>
                   </li>
                   
                   <li>
-                    <a href="#">Acceptable Use Policy</a>
+                    <a href="/UsePolicy">Acceptable Use Policy</a>
                   </li>
                 </ul>
               </li>

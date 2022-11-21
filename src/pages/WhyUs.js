@@ -44,7 +44,7 @@ function Pricing() {
                   2. Get more clicks with custom links
                   </div>
                   <div className='page-text'>
-                  Make your links powerful marketing assets. Custom links replace “bit.ly” with your chosen domain name, making your links consistently recognizable across channels. They’re so powerful, businesses that use them get more clicks.
+                  Make your links powerful marketing assets. Custom links replace “1ShortUrl.com” with your chosen domain name, making your links consistently recognizable across channels. They’re so powerful, businesses that use them get more clicks.
                   </div>
               </div>
           </div>

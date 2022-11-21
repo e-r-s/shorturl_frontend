@@ -26,7 +26,7 @@ function PrivacyPolicy() {
     <p>This Privacy Policy explains how #1ShortUrl treats the personal information it gathers when you use or access <a
             href="https://1ShortUrl.com/">https://1ShortUrl.com</a> (the “Site”) or the services, features, content or
         applications offered by #1ShortUrl (collectively with the Site, the “Services”), or when you view or interact with a
-        #1ShortUrl link (either our bit.ly links or one of our branded domains). This Privacy Policy also covers #1ShortUrl’s
+        #1ShortUrl link (either our 1ShortUrl.com links or one of our branded domains). This Privacy Policy also covers #1ShortUrl’s
         treatment of any information about you that #1ShortUrl’s customers share with #1ShortUrl.</p>
     <p>This Privacy Policy does not apply to the practices of other businesses that #1ShortUrl does not own or control,
         including other companies’ websites, services and applications (“Third Party Services”) that you can access
@@ -37,7 +37,7 @@ function PrivacyPolicy() {
     <p>#1ShortUrl may collect personal information about you from the following sources, as described in this Privacy Policy,
         when you (i) register for the Site and the Services, through your user account with #1ShortUrl, including registering
         through a third-party social networking service (your “Account”); (ii) use the Services; or (iii) view or
-        interact with a #1ShortUrl link (either our bit.ly links or one of our branded domains) on a third-party website. We
+        interact with a #1ShortUrl link (either our 1ShortUrl.com links or one of our branded domains) on a third-party website. We
         collect the following types of information from you, some of which might be considered personal information
         under applicable law.</p>
     <p><strong>When You Register for a #1ShortUrl Account</strong><br /> When you create an Account, we may collect personal
@@ -63,7 +63,7 @@ function PrivacyPolicy() {
         address), the time and date on which you shortened the original URL, and if you share a #1ShortUrl Link on a social
         networking platform, the name of the platform and your username on that platform.</p>
     <p><strong>When You Interact With a #1ShortUrl Link</strong><br /> #1ShortUrl automatically collects personal information about
-        the interaction (such as clicks or views) with every #1ShortUrl Link created through the Services (either our bit.ly
+        the interaction (such as clicks or views) with every #1ShortUrl Link created through the Services (either our 1ShortUrl.com
         links or one of our branded domains) on a third-party website. This information includes, but is not limited to:
         (i) the IP address and location derived from the IP address; (ii) internet or other electronic network activity
         information like the referring websites or services; (iii) the time and date of each access; (iv) device
@@ -138,10 +138,10 @@ function PrivacyPolicy() {
         tracking via their device settings. Please note that if you use these opt-out mechanisms, we will still
         automatically collect the IP addresses of computers or mobile devices that click on or create #1ShortUrl Links; we
         just won’t associate them with your browser or #1ShortUrl account.</p>
-    <p>Cookies on #1ShortUrl Links:&nbsp;<a href="https://bit.ly/a/optout" target="_blank" rel="noopener">Click Here</a> (<a
-            href="https://bit.ly/a/optout" target="_blank" rel="noopener">https://bit.ly/a/optout</a>)</p>
-    <p>Cookies on #1ShortUrl.com:&nbsp;<a href="https://1ShortUrl.com/a/optout" target="_blank" rel="noopener">Click Here</a> (<a
+    {/* <p>Cookies on #1ShortUrl Links:&nbsp;<a href="https://1ShortUrl.com/a/optout" target="_blank" rel="noopener">Click Here</a> (<a
             href="https://1ShortUrl.com/a/optout" target="_blank" rel="noopener">https://1ShortUrl.com/a/optout</a>)</p>
+    <p>Cookies on #1ShortUrl.com:&nbsp;<a href="https://1ShortUrl.com/a/optout" target="_blank" rel="noopener">Click Here</a> (<a
+            href="https://1ShortUrl.com/a/optout" target="_blank" rel="noopener">https://1ShortUrl.com/a/optout</a>)</p> */}
     <p><strong>Note Regarding Children</strong><br /> We do not knowingly collect personal information from children. If
         we learn that we have collected personal information of a child under 13 (or older as required by applicable
         law), we will take steps to delete such information from our ﬁles as soon as possible.</p>
@@ -312,7 +312,7 @@ function PrivacyPolicy() {
     <p>If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to:
         <a href="mailto:privacy@1ShortUrl.com">privacy@1ShortUrl.com</a>. We will make every effort to resolve your concerns.
     </p>
-    <p>You may also contact us at DPT 5006, 601 W. 26th St., 3rd Floor, Suite 357, New York, NY 10001-1101.</p>
+    {/* <p>You may also contact us at DPT 5006, 601 W. 26th St., 3rd Floor, Suite 357, New York, NY 10001-1101.</p> */}
  
           
         </div>
